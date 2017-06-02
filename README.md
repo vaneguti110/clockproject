@@ -1,4 +1,4 @@
-## Clockproject
+# Clockproject
 
 >This is a project using html, css, javascript and images
 >(http://lolcatclock.bitballoon.com/)
